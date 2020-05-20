@@ -56,6 +56,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "english_words",
+      "rootUri": "file:///C:/GOD/programs/flutter/.pub-cache/hosted/pub.dartlang.org/english_words-3.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "1.22"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/GOD/programs/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -164,13 +170,13 @@
       "languageVersion": "2.6"
     },
     {
-      "name": "beautiful_ui",
+      "name": "startup_namer_pt2",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-05-20T15:53:31.251724Z",
+  "generated": "2020-05-20T16:03:23.752239Z",
   "generator": "pub",
   "generatorVersion": "2.8.2"
 }
